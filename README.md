@@ -1,5 +1,4 @@
 # Review-Scraper
-## Review Scraper
 This is a Python script for scraping reviews from flipkart. It uses the requests and beautifulsoup4 libraries to send HTTP requests to a website and parse the HTML response.
 
 ## Usage
